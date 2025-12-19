@@ -1,23 +1,34 @@
-### Hi there 👋
+```shell
+# flopezlasanta(1)
 
-```rust
-impl Flopezlasanta {
-    pub fn about() -> Self {
-        Self {
-            name: "Francisco Lopez",
-            planet_of_birth: "Earth",
-            email: "flopezlasanta@gmail.com",
-        }
-    }
-}
+## NAME
+Francisco Lopez Lasanta — trading systems engineer (Rust + Python)
 
-impl Programmer for Flopezlasanta {
-    fn topics(&self) -> Vec<&'static str> {
-        vec!["Trading", "Crypto", "24x7", "Low Latency", "Micro Services", "Machine Learning", "Big Data"]
-    }
+## SYNOPSIS
+Build systems that survive real markets:
+- market data
+- execution
+- risk/controls
+- simulation/backtesting
+- low-latency plumbing
 
-    fn major_languages(&self) -> Vec<&'static str> {
-        vec!["Rust", "Java", "Scala", "Python"]
-    }
-}
+## DESCRIPTION
+Work sits at the intersection of trading, crypto, and systems engineering.
+Preference for simple designs, measurable performance, and production realism.
+
+## TOOLING
+- Rust: production systems, performance, correctness
+- Python: research, prototyping, data work
+
+## SELECTED PUBLIC WORK
+- matchina — minimal matching engine for an exchange
+- kinko — delta-neutral paper trading simulator
+- trading-hackaton-kaggle - cryptoc trading and backtesting hackaton
+- trading-systems-lectures — lecture slides and supporting material
+
+## MANTRA
+1. Make it work. Then make it fast. Then make it beautiful.
+2. Learn the hard way.
+3. Complex problems. Simple solutions.
+4. Code tells the truth. Production is the judge.
 ```
