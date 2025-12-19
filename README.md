@@ -27,8 +27,14 @@ Preference for simple designs, measurable performance, and production realism.
 - trading-systems-lectures — lecture slides and supporting material
 
 ## MANTRA
-1. Make it work. Then make it fast. Then make it beautiful.
-2. Learn the hard way.
-3. Complex problems. Simple solutions.
-4. Code tells the truth. Production is the judge.
+Make it work.
+Then make it fast.
+Then make it beautiful.
+
+Complex problems. Simple solutions.
+
+Code tells the truth.
+Production is the judge.
+
+Learn the hard way.
 ```
