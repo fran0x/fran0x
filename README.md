@@ -1,8 +1,8 @@
-```shell
+```bash
 # flopezlasanta(1)
 
 ## NAME
-Francisco Lopez Lasanta — trading systems engineer (Rust + Python)
+Francisco Lopez Lasanta — trading & crypto systems engineer (Rust + Python)
 
 ## SYNOPSIS
 Build systems that survive real markets:
@@ -23,15 +23,14 @@ Preference for simple designs, measurable performance, and production realism.
 ## SELECTED PUBLIC WORK
 - matchina — minimal matching engine for an exchange
 - kinko — delta-neutral paper trading simulator
-- trading-hackaton-kaggle - cryptoc trading and backtesting hackaton
-- trading-systems-lectures — lecture slides and supporting material
 
 ## MANTRA
 Make it work.
 Then make it fast.
 Then make it beautiful.
 
-Complex problems. Simple solutions.
+Complex problems.
+Simple solutions.
 
 Code tells the truth.
 Production is the judge.
