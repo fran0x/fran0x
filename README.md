@@ -35,5 +35,5 @@ Simple solutions.
 Code tells the truth.
 Production is the judge.
 
-Learn the hard way.
+Enjoy.
 ```
