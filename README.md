@@ -5,7 +5,7 @@ I like building systems where **correctness, latency, reliability and operationa
 ```text
 focus       trading systems · market microstructure · crypto
 building    high-performance · distributed · production systems
-tools       Rust · Python
+tools       Rust · Java · Python
 principles  make it work → make it fast → make it simple
 ```
 
