@@ -9,6 +9,6 @@ tools       Rust · Python
 principles  make it work → make it fast → make it simple
 ```
 
-I also spend time mentoring engineers and students interested in **trading technology, blockchain and financial systems**.
+Beyond industry work, I collaborate with universities and student initiatives around trading technology, blockchain and software engineering, and contribute to projects exploring how technology can support NGOs and social-impact initiatives.
 
 [LinkedIn](https://www.linkedin.com/in/flopezlasanta/)
